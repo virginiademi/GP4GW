@@ -1,0 +1,9 @@
+tensorflow==2.3
+tensorflow-probability==0.11
+gpflow==2.1.4
+sklearn
+uncertainties
+scipy
+matplotlib
+arviz
+corner
