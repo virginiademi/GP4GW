@@ -7,3 +7,4 @@ scipy
 matplotlib
 arviz
 corner
+pesummary
