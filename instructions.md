@@ -6,6 +6,7 @@ python -m ipykernel install --name gp4gw --user
 ```
 # Install gp4gw package
 ```bash
+git clone https://github.com/virginiademi/GP4GW.git
 pip install -r requirements.txt
 python setup.py install
 ```
